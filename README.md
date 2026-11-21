@@ -1,8 +1,8 @@
 # 📊 Personal Finance, Meal & Loan Management System (Microsoft Excel)
 
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Financial Modeling](https://img.shields.io/badge/Financial_Modeling-0F172A?style=for-the-badge)
-![Dynamic Dashboard](https://img.shields.io/badge/Dynamic_Dashboard-2563EB?style=for-the-badge)
+[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](#-workbook-preview)
+[![Financial Modeling](https://img.shields.io/badge/Financial_Modeling-0F172A?style=for-the-badge)](#-workbook-preview)
+[![Dynamic Dashboard](https://img.shields.io/badge/Dynamic_Dashboard-2563EB?style=for-the-badge)](#-workbook-preview)
 
 An all-in-one, automated **Personal Finance, Solo Meal Costing, Loan/Receivable Ledger, and Budget Control System** built in native Microsoft Excel (`.xlsx`). Designed with an executive UI, custom top-navigation bar, bilingual (English & Bangla) labels, and zero-macro dynamic formula architecture for maximum compatibility and reliability.
 
